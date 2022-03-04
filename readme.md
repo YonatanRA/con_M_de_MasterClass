@@ -5,4 +5,4 @@
 
 Dia de python y generacion y lectura de codigos de barras para aplicacion de supply chain.
 
-![barcode](barcodes/code_0.png)
+![barcode](barcodes/code_0.jpeg)
